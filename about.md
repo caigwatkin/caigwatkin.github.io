@@ -1,4 +1,4 @@
-# Cai Gwatkin
+# About me
 
 The range of experiences I've had, both professionally and personally, have given me a very solid foundation from which to launch into any new challenge in the broader industries of software, technology, innovation, and business.
 My idea of a successful organisation is people over processes, culture over structure, enabling over requiring.
