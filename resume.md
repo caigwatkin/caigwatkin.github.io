@@ -47,6 +47,7 @@ I was the lead developer on a Salesforce project to provide production managemen
 ## Tertiary education
 
 BInfSci, Software Engineering at Massey University - 2015 through 2017.
+Certificate of Achievement for excellent outstanding performance demonstrated in studies toward the BInfSci (Software Engineering).
 
 - Foundational software engineering knowledge: very hands-on programming languages (C/C++, machine code, etc.), hardware design (ALU, CPU), databases, network protocols, OSI model, etc.
 - Range: data analysis, ML/AI, UI/UX design, computer graphics, etc.
