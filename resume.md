@@ -10,7 +10,7 @@ From December 2017 through October 2023, I worked as an engineer at the Boxer co
 We built, enhanced, and maintained a suite of bespoke apps and services to facilitate business operations which involved selling issue resolution service for online shoppers, enabling local solutions for global, cross-border purchases.
 I was heavily involved in development related to most domains within our business, including: sales, marketing, operations, accounting, security, solution architecture, and devops.
 
-Some accomplishments I'm pround of:
+Some accomplishments I'm proud of:
 
 - Creating and evolving the framework used for all of our Golang microservices.
 - Solutioning and developing our identity and access management service which all requests to our microservices utilised.
