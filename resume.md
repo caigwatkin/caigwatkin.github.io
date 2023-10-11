@@ -7,14 +7,14 @@ Looking to do good whilst also enjoying the journey.
 ## Boxer/LocalCover
 
 From December 2017 through October 2023, I worked as an engineer at the Boxer company (initially branded as LocalCover).
-We built, enhanced, and maintained a suite of bespoke apps and services to facilitate business operations which involved selling issue resolution service for online shoppers, enabling local solutions for global, cross-border purchases.
+We built, enhanced, and maintained a suite of bespoke apps and services to facilitate business operations which involved selling issue resolution services for online shoppers, enabling local solutions for global, cross-border purchases.
 I was heavily involved in development related to most domains within our business, including: sales, marketing, operations, accounting, security, solution architecture, and devops.
 
 Some accomplishments I'm proud of:
 
 - Creating and evolving the framework used for all of our Golang microservices.
-- Solutioning and developing our identity and access management service which all requests to our microservices utilised.
-- Creating and evolving the features and functionality of our issue resulotion tooling which was the core of business operations.
+- Solutioning and development of our identity and access management service which all requests to our microservices utilised.
+- Creating and evolving the features and functionality of our issue resolution tooling which was the core of business operations.
 
 Proficiencies (transferable):
 
