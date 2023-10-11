@@ -19,7 +19,7 @@ Some accomplishments I'm pround of:
 Proficiencies (transferable):
 
 - Various languages: Golang, JavaScript, HTML/CSS, bash, Python, Java, YAML, etc.
-- Various frameworks/standards: React, TypeScript, Web Components, REST, TDD, CI/CD, OpenAPI, OAuth, etc.
+- Various frameworks/standards: React, TypeScript, Web Components, REST/RPC/OpenAPI, TDD, CI/CD, OAuth, etc.
 - Various cloud products: GCP (Cloud Run, Cloud Tasks, Pub/Sub, Cloud KMS, etc.), Twilio, SendGrid, etc.
 
 ### Lead Software Engineer at Boxer - 2022 through Oct 2023
