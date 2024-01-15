@@ -1,66 +1,69 @@
 # Cai Gwatkin
 
-Cai is a highly capable full-stack software engineer with a range of transferable and specialised skills from years of experience with cloud-based, global-scale products.
-Their motivation as an engineer is turning hopes into reality, whilst as a colleague their motivation is connection, collaboration, and creativity.
-Cai is always looking to learn and improve, continuously optimising their ways of working to get the best results in high-change environments.
+As a full-stack software engineer, I thrive on bridging the gap between dreams and deployment.
+Backed by years of experience crafting cloud-based products with global reach, I bring a diverse skillset and a passion for building impactful solutions.
+For me, it is about more than just writing code; I seek to build relationships, foster innovation, and ultimately turn aspirations into tangible realities.
 
-## Proven skills and transferrable proficiencies
+Technical expertise: I’m adept in navigating the full software development lifecycle, from conception to deployment and beyond.
 
-- Software engineering.
-  - Cai has consistently delivered value by engineering software solutions using cloud-based, highly integrated API development and modern, flexible UI development.
-  - Various languages: Golang, JavaScript, HTML/CSS, bash, Python, Java, YAML, etc.
-  - Various frameworks/standards: React, TypeScript, Web Components, REST/RPC/OpenAPI, infrastructure as code, TDD, CI/CD, OAuth, etc.
-  - Various cloud products: GCP (Cloud Run, Cloud Tasks, Pub/Sub, Cloud KMS, etc.), Twilio, SendGrid, etc.
-- Team leadership.
-  - Cai was a Lead Engineer, a role with a team of engineers as direct reports, for almost two years.
-  - Motivation, empowerment, growth; the responsibility/accountability of delivering value, balanced with active involvement in the professional growth of the team members.
-- Collaborative delivery.
-  - Cai has worked on various projects involving people of specialised roles from which the best results were achieved by tactful collaboration towards shared goals.
-  - Articulating specialised considerations in simple terms enables timely feedback to deliver on the needs of all stakeholders.
+Collaborative spirit: I believe in the power of connection and teamwork, fostering creativity and open communication in every project.
 
-## Industry experience: Boxer/LocalCover
+Adaptability and growth: I embrace a continuous learning mindset, readily optimising workflows and tackling high-change environments with a solutions-oriented approach.
 
-From December 2017 until October 2023, Cai worked as a software engineer at the company Boxer (initially branded as LocalCover).
-The company provided issue resolution services to online shoppers, using local solutions to global problems such as organising the repair of faulty products from cross-border purchases.
-This was a complex domain in which potentially thousands of online retailers could each be selling thousands of unique products from any country to any other country, meaning a shopper's issue might need a similarly unique solution.
-Many of the software features focused on connecting the shopper with organisations in their local area that could solve their issue.
-This involved issue identification, providing options for solutions, engaging with local organisations, providing logistics for moving products, and a great deal of communication.
+## Industry experience
 
-Cai was heavily involved in software engineering at the company from very early on, being one of the first ten employees. He worked on developing a suite of bespoke web apps and API microservices, collaborating with most domains of the business: sales, marketing, operations, accounting, and engineering.
+### Lead Software Engineer
 
-### 2022 and 2023 - Lead Software Engineer at Boxer
+Boxer Group Services Limited - 2017 to 2023.
 
-- Cai was leading an agile team of engineers in a high-change environment, balancing evolving business needs with the needs of their team.
-- A seller-focused push to market with the Boxer brand with a lot of work being done on the Shopify app for turn-key integration.
-- Business development and market entry proved challenging over this time so the role Cai was in changed to being one of a few engineers responsible for all engineering needs at Boxer.
+My time as a software engineer at Boxer began with creating our core features which were serving our first production customers within 8 months.
+I gained a range and depth of experience in all aspects of the development lifecycle and business domains thanks to our modern engineering culture and dedication to engineering excellence.
+From 2022, I was leading a team of engineers during our ambitious rebranded launch of Boxer (originally called LocalCover).
+I'm proud of the impact I had on our growth, both in the expansion of business capabilities and in the culture of the organisation.
 
-### 2021 - Senior Software Engineer at LocalCover/Boxer
+#### Achievements and milestones
 
-- A pivot to the new branding, Boxer, from the established business, LocalCover.
-- Cai was working on full-stack development to enable this pivot whilst further evolving the suite of tools for business operations.
+- Spearheading our early adoption of Golang for our microservices, enabling efficient development practices with sophisticated testing
+- Researching and integrating with miriad GCP products, greatly expanding our technical capabilities
+- Simplifying and normalising our use of React, improving the extensibility of our apps and reducing overhead for engineers working across multiple domains
+- Developing our identity and access management service, providing robust security in the use of all apps and services
+- Developing our issue resolution capabilities, forming the core of our value for customers whilst being highly extensible, scalable, and reliable
+- Developing our logistics integrations, important in automating the movement of products during issue resolution operations
+- Developing a job management system, enabling integrated management of engagements with external organisations during issue resolution operations
+- Developing many tools for customer service representatives, such as a task management system for improved collaboration
+- Developing a bespoke and broadly integrated accounting service, one that handled the complexities of cross-border sales and operations
+- Building the foundation of automated testing in our web apps, improving the QA team's capabilities and improving the reliability of feature releases
+- Refactoring our large codebase to support a pivot from the LocalCover brand to the Boxer brand, enabling simultaneous development and support for both
+- Developing our Shopify app and other sales integrations, enabling turn-key integration for new sellers of Boxer offerings
+- Evolving the ways we work with impactful feedback mechanisms and collaboration on process improvements, enabling specialised roles to efficiently work across many projects
+- Creating and evolving our approach to production support, allowing timely fixes and avoiding negative impacts on the reliability of our many apps and services
+- Creating and evolving our code review and code quality practices, improving the quality of solutions and sharing knowledge between engineers
+- Evolving our CI/CD and release practices, enabling multiple teams to release code efficiently with minimal impact on concurrent development
 
-### 2017 to 2020 - Software Engineer at LocalCover
+#### Responsibilities
 
-- Solutioning and building, from scratch, a suite of web apps and API microservices for various business needs.
-- Production release with LocalCover's first seller, Newegg CA, was achieved within the first 8 months.
-- Cai's role was initially more API (back-end) focused, delivering many foundational features whilst creating and collaboratively evolving the API microservices' software framework.
-- Among other achievements, Cai engineered the identity and access management service, which all API requests to the microservices utilised.
+- Team leadership
+- Software development
+- Solution design
+- Testing, reliability, and bug fixing
+- DevOps and CI/CD
+- Cloud infrastructure configuration and maintenance
+- Security
+- Production support
+- Project management
+- Stakeholder management
 
-## Other industry experience
+### Salesforce Intern
 
-### Salesforce Intern at Fronde - Nov 2016 through Nov 2017
+Fronde - 2016 to 2017.
 
-Cai was the lead developer on a Salesforce project to provide production management and order fulfillment tracking for a social enterprise: Make Give Live.
-Cai provided system administration services and further feature development in the year following that project.
+I was the lead developer on a Salesforce project to provide production management and order fulfillment tracking for a social enterprise: Make Give Live.
+I then provided system administration services and further feature development in the year following that project.
 
-## Tertiary education
+## Education
 
 BInfSci, Software Engineering at Massey University - 2017.
-Cai received the Certificate of Achievement for excellent outstanding performance demonstrated in studies toward the BInfSci (Software Engineering).
-
-- Foundational software engineering knowledge: very hands-on programming languages (C/C++, machine code, etc.), hardware design (ALU, CPU), databases, network protocols, OSI model, etc.
-- Range: data analysis, ML/AI, UI/UX design, computer graphics, etc.
 
 ## References
 
-Contact details of Cai's mentors at Boxer are available on request.
+Available on request.
