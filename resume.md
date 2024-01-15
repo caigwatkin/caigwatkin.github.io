@@ -2,14 +2,12 @@
 
 Cai is a highly capable full-stack software engineer with a range of transferable and specialised skills from years of experience with cloud-based, global-scale products.
 Their motivation as an engineer is turning hopes into reality, whilst as a colleague their motivation is connection, collaboration, and creativity.
-Nurturing a growth mindset means they are always learning and optimising their ways of working to get the best results in high-change environments.
-Cai strives to be an asset to any team they work with, always ready to volunteer their efforts in delivering on shared goals and excited to get involved.
+Cai is always looking to learn and improve, continuously optimising their ways of working to get the best results in high-change environments.
 
 ## Proven skills and transferrable proficiencies
 
 - Software engineering.
   - Cai has consistently delivered value by engineering software solutions using cloud-based, highly integrated API development and modern, flexible UI development.
-  - Working with a range of software engineering languages, frameworks, and integrations (some of which are listed below) means that even the most specialised learnings have been retained as transferrable knowledge that speeds up the delivery of all software solutions.
   - Various languages: Golang, JavaScript, HTML/CSS, bash, Python, Java, YAML, etc.
   - Various frameworks/standards: React, TypeScript, Web Components, REST/RPC/OpenAPI, infrastructure as code, TDD, CI/CD, OAuth, etc.
   - Various cloud products: GCP (Cloud Run, Cloud Tasks, Pub/Sub, Cloud KMS, etc.), Twilio, SendGrid, etc.
@@ -23,13 +21,12 @@ Cai strives to be an asset to any team they work with, always ready to volunteer
 ## Industry experience: Boxer/LocalCover
 
 From December 2017 until October 2023, Cai worked as a software engineer at the company Boxer (initially branded as LocalCover).
-The company positioned itself as selling issue resolution services for online shoppers to use local solutions for problems such as product faults on their cross-border purchases.
-They collaboratively built, maintained, and improved a suite of bespoke web apps and API services to facilitate business operations.
-Cai was heavily involved in software engineering from very early on, being one of the first ten employees, and with most domains within the business, including: sales, marketing, operations, accounting, and engineering.
+The company provided issue resolution services to online shoppers, using local solutions to global problems such as organising the repair of faulty products from cross-border purchases.
+This was a complex domain in which potentially thousands of online retailers could each be selling thousands of unique products from any country to any other country, meaning a shopper's issue might need a similarly unique solution.
+Many of the software features focused on connecting the shopper with organisations in their local area that could solve their issue.
+This involved issue identification, providing options for solutions, engaging with the local organisations, providing logistics for moving products, and a great deal of communication.
 
-This was a complex domain in which potentially thousands of online retailers in any country could be selling millions of unique products into any other country, for which the shopper's issue raised with Boxer might need a similarly unique solution.
-Many of the software solutions focused on connecting the shopper with organisations in their local area that could solve their issue.
-This involves issue identification, options for solutions, engaging with the local organisation, logistics, and a great deal of communication.
+Cai was heavily involved in software engineering at the company from very early on, being one of the first ten employees. He worked on developing a suite of bespoke web apps and API microservices, collaborating with most domains of the business: sales, marketing, operations, accounting, and engineering.
 
 ### 2022 and 2023 - Lead Software Engineer at Boxer
 
