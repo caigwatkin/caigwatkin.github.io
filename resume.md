@@ -7,13 +7,13 @@ Cai strives to be an asset to any team they work with, always ready to volunteer
 
 ## Proven skills
 
-- software engineering
+- Software engineering
   - Cai has consistently delivered value by engineering software solutions using cloud-based, highly integrated API development and modern, flexible UI development
   - working with a range of software engineering languages, frameworks, and integrations (some of which are listed below) means that even the most specialised learnings have been retained as transferrable knowledge that speeds up the delivery of all software solutions
-- team leadership
+- Team leadership
   - Cai was a Lead Engineer, a role with a team of engineers as direct reports, for almost two years
   - motivation, empowerment, growth; the responsibility/accountability of delivering value, balanced with active involvement in the professional growth of the team members
-- collaborative delivery
+- Collaborative delivery
   - Cai has worked on various projects involving people of specialised roles from which the best results were achieved by tactful collaboration towards shared goals
   - articulating specialised considerations in simple terms enables timely feedback to deliver on the needs of all stakeholders
 
@@ -31,7 +31,7 @@ They collaboratively built, maintained, and improved a suite of bespoke web apps
 Cai was heavily involved in software engineering from very early on, being one of the first ten employees, and with most domains within the business, including: sales, marketing, operations, accounting, and engineering.
 
 This was a complex domain in which potentially thousands of online retailers in any country could be selling millions of unique products into any other country, for which the shopper's issue raised with Boxer might need a similarly unique solution.
-Many of our software solutions focused on connecting the shopper with organisations in their local area that could solve their issue.
+Many of the software solutions focused on connecting the shopper with organisations in their local area that could solve their issue.
 This involves issue identification, options for solutions, engaging with the local organisation, logistics, and a great deal of communication.
 
 ### 2022 and 2023 - Lead Software Engineer at Boxer
@@ -50,7 +50,7 @@ This involves issue identification, options for solutions, engaging with the loc
 - Solutioning and building, from scratch, a suite of web apps and API microservices for various business needs.
 - Production release with LocalCover's first seller, Newegg CA, was achieved within the first 8 months.
 - Cai's role was initially more API (back-end) focused, delivering many foundational features whilst creating and collaboratively evolving the API microservices' software framework.
-- Among other achievements, Cai engineered the identity and access management service, which all API requests to our microservices utilised.
+- Among other achievements, Cai engineered the identity and access management service, which all API requests to the microservices utilised.
 
 ## Other industry experience
 
