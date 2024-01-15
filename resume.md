@@ -1,7 +1,7 @@
 # Cai Gwatkin
 
 As a full-stack software engineer, I thrive on bridging the gap between dreams and deployment.
-Backed by years of experience crafting cloud-based products with global reach, I bring a diverse skillset and a passion for building impactful solutions.
+Backed by years of experience crafting cloud-based products with global reach, I bring a diverse skill set and a passion for building impactful solutions.
 For me, it is about more than just writing code; I seek to build relationships, foster innovation, and ultimately turn aspirations into tangible realities.
 
 Technical expertise: I’m adept in navigating the full software development lifecycle, from conception to deployment and beyond.
@@ -18,7 +18,7 @@ Boxer Group Services Limited - 2017 to 2023.
 
 My time as a software engineer at Boxer began with creating our core features which were serving our first production customers within 8 months.
 I gained a range and depth of experience in all aspects of the development lifecycle and business domains thanks to our modern engineering culture and dedication to engineering excellence.
-From 2022, I was leading a team of engineers during our ambitious rebranded launch of Boxer (originally called LocalCover).
+From early in 2022, I led a team of engineers during our ambitious rebranded launch of Boxer (originally called LocalCover).
 I'm proud of the impact I had on our growth, both in the expansion of business capabilities and in the culture of the organisation.
 
 #### Achievements and milestones
@@ -27,9 +27,9 @@ I'm proud of the impact I had on our growth, both in the expansion of business c
 - Researching and integrating with miriad GCP products, greatly expanding our technical capabilities
 - Simplifying and normalising our use of React, improving the extensibility of our apps and reducing overhead for engineers working across multiple domains
 - Developing our identity and access management service, providing robust security in the use of all apps and services
-- Developing our issue resolution capabilities, forming the core of our value for customers whilst being highly extensible, scalable, and reliable
-- Developing our logistics integrations, important in automating the movement of products during issue resolution operations
-- Developing a job management system, enabling integrated management of engagements with external organisations during issue resolution operations
+- Developing our issue-resolution capabilities, forming the core of our value for customers whilst being highly extensible, scalable, and reliable
+- Developing our logistics integrations, important in automating the movement of products during issue-resolution operations
+- Developing a job management system, enabling integrated management of engagements with external organisations during issue-resolution operations
 - Developing many tools for customer service representatives, such as a task management system for improved collaboration
 - Developing a bespoke and broadly integrated accounting service, one that handled the complexities of cross-border sales and operations
 - Building the foundation of automated testing in our web apps, improving the QA team's capabilities and improving the reliability of feature releases
