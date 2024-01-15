@@ -5,23 +5,20 @@ Their motivation as an engineer is turning hopes into reality, whilst as a colle
 Nurturing a growth mindset means they are always learning and optimising their ways of working to get the best results in high-change environments.
 Cai strives to be an asset to any team they work with, always ready to volunteer their efforts in delivering on shared goals and excited to get involved.
 
-## Proven skills
+## Proven skills and transferrable proficiencies
 
-- Software engineering
-  - Cai has consistently delivered value by engineering software solutions using cloud-based, highly integrated API development and modern, flexible UI development
-  - working with a range of software engineering languages, frameworks, and integrations (some of which are listed below) means that even the most specialised learnings have been retained as transferrable knowledge that speeds up the delivery of all software solutions
-- Team leadership
-  - Cai was a Lead Engineer, a role with a team of engineers as direct reports, for almost two years
-  - motivation, empowerment, growth; the responsibility/accountability of delivering value, balanced with active involvement in the professional growth of the team members
-- Collaborative delivery
-  - Cai has worked on various projects involving people of specialised roles from which the best results were achieved by tactful collaboration towards shared goals
-  - articulating specialised considerations in simple terms enables timely feedback to deliver on the needs of all stakeholders
-
-### Proficiencies (transferable)
-
-- Various languages: Golang, JavaScript, HTML/CSS, bash, Python, Java, YAML, etc.
-- Various frameworks/standards: React, TypeScript, Web Components, REST/RPC/OpenAPI, infrastructure as code, TDD, CI/CD, OAuth, etc.
-- Various cloud products: GCP (Cloud Run, Cloud Tasks, Pub/Sub, Cloud KMS, etc.), Twilio, SendGrid, etc.
+- Software engineering.
+  - Cai has consistently delivered value by engineering software solutions using cloud-based, highly integrated API development and modern, flexible UI development.
+  - Working with a range of software engineering languages, frameworks, and integrations (some of which are listed below) means that even the most specialised learnings have been retained as transferrable knowledge that speeds up the delivery of all software solutions.
+  - Various languages: Golang, JavaScript, HTML/CSS, bash, Python, Java, YAML, etc.
+  - Various frameworks/standards: React, TypeScript, Web Components, REST/RPC/OpenAPI, infrastructure as code, TDD, CI/CD, OAuth, etc.
+  - Various cloud products: GCP (Cloud Run, Cloud Tasks, Pub/Sub, Cloud KMS, etc.), Twilio, SendGrid, etc.
+- Team leadership.
+  - Cai was a Lead Engineer, a role with a team of engineers as direct reports, for almost two years.
+  - Motivation, empowerment, growth; the responsibility/accountability of delivering value, balanced with active involvement in the professional growth of the team members.
+- Collaborative delivery.
+  - Cai has worked on various projects involving people of specialised roles from which the best results were achieved by tactful collaboration towards shared goals.
+  - Articulating specialised considerations in simple terms enables timely feedback to deliver on the needs of all stakeholders.
 
 ## Industry experience: Boxer/LocalCover
 
