@@ -24,7 +24,7 @@ From December 2017 until October 2023, Cai worked as a software engineer at the 
 The company provided issue resolution services to online shoppers, using local solutions to global problems such as organising the repair of faulty products from cross-border purchases.
 This was a complex domain in which potentially thousands of online retailers could each be selling thousands of unique products from any country to any other country, meaning a shopper's issue might need a similarly unique solution.
 Many of the software features focused on connecting the shopper with organisations in their local area that could solve their issue.
-This involved issue identification, providing options for solutions, engaging with the local organisations, providing logistics for moving products, and a great deal of communication.
+This involved issue identification, providing options for solutions, engaging with local organisations, providing logistics for moving products, and a great deal of communication.
 
 Cai was heavily involved in software engineering at the company from very early on, being one of the first ten employees. He worked on developing a suite of bespoke web apps and API microservices, collaborating with most domains of the business: sales, marketing, operations, accounting, and engineering.
 
