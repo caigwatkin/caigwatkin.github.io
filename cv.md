@@ -2,7 +2,7 @@
 
 As a full-stack software engineer, I thrive on bridging the gap between dreams and deployment.
 Backed by years of experience crafting cloud-based products with global reach, I bring a diverse skill set and a passion for building impactful solutions.
-For me, it is about more than just writing code; I seek to build relationships, foster innovation, and ultimately turn aspirations into tangible realities.
+For me, it is about more than just writing code as I seek to build relationships, foster innovation, and ultimately turn aspirations into tangible realities.
 
 Technical expertise: I’m adept in navigating the full software development lifecycle, from conception to deployment and beyond.
 
@@ -64,6 +64,10 @@ I then provided system administration services and further feature development i
 
 BInfSci, Software Engineering at Massey University - 2017.
 
+Certificate of Achievement for excellent outstanding performance demonstrated in studies toward the BInfSci (Software Engineering) - 2017.
+
 ## References
 
 Available on request.
+
+Please see my [recommendations on LinkedIn](https://www.linkedin.com/in/caigwatkin/#recommendations).
