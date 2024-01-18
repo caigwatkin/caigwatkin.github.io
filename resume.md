@@ -26,13 +26,13 @@ I'm proud of the impact I had on our growth, both in the expansion of business c
 - Spearheading our early adoption of Golang for our microservices, enabling efficient development practices with sophisticated testing
 - Researching and integrating with miriad GCP products, greatly expanding our technical capabilities
 - Simplifying and normalising our use of React, improving the extensibility of our apps and reducing overhead for engineers working across multiple domains
+- Building the foundation of automated testing of our web apps using Cypress, improving the QA team's capabilities and improving the reliability of feature releases
 - Developing our identity and access management service, providing robust security in the use of all apps and services
 - Developing our issue-resolution capabilities, forming the core of our value for customers whilst being highly extensible, scalable, and reliable
 - Developing our logistics integrations, important in automating the movement of products during issue-resolution operations
 - Developing a job management system, enabling integrated management of engagements with external organisations during issue-resolution operations
 - Developing many tools for customer service representatives, such as a task management system for improved collaboration
 - Developing a bespoke and broadly integrated accounting service, one that handled the complexities of cross-border sales and operations
-- Building the foundation of automated testing in our web apps, improving the QA team's capabilities and improving the reliability of feature releases
 - Refactoring our large codebase to support a pivot from the LocalCover brand to the Boxer brand, enabling simultaneous development and support for both
 - Developing our Shopify app and other sales integrations, enabling turn-key integration for new sellers of Boxer offerings
 - Evolving the ways we work with impactful feedback mechanisms and collaboration on process improvements, enabling specialised roles to efficiently work across many projects
